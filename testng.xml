@@ -20,6 +20,7 @@
 	  <parameter name="browser" value="firefox"></parameter>
 	  <classes>
 		  <class name="tests.ActitimeLoginCreateCustomerLogout"/>
-	  </classes>
+	  </classe>
+	  this is a change in the xml for git validation
   </test> -->
 </suite> <!-- Suite -->
